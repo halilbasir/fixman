@@ -192,10 +192,17 @@ h2 {
 
 .services-block img {
   border-radius: 10px;
+
   width: 100%;
-  height: 250.60px;
+  object-fit: cover ;
+  height: 350.60px;
   object-fit: cover;
   -o-object-fit: cover;     
+}
+.services-work{
+
+   width: 100%;
+  height: 250.60px;
 }
 .uznat{
   margin-top: 3rem;
